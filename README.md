@@ -1,5 +1,5 @@
 # FixItem v1.8.5
-Is a plugin that can help fix items on hand
+Is a plugin that can help fix items on hand.
 As follows: 
 /fixitem: Allows players to repair their items on their hand
 
